@@ -1,0 +1,9 @@
+.DS_Store
+
+# Jekyll
+_site
+Gemfile.lock
+
+# Editor directories and files
+.idea
+.vscode
